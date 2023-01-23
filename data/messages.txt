@@ -1,0 +1,1 @@
+['NewOrderRequest', 'NewOrderAcknowledged', 'CancelRequest', 'CancelAcknowledged', 'Cancelled', 'Trade', 'Rejected']
